@@ -1,0 +1,11 @@
+build:
+  tags:
+    - maven
+  script:
+    - mvn clean compile
+
+deploy:
+  tags:
+    - maven
+  script:
+    - mvn -B install javadoc:javadoc
