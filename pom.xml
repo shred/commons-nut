@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.shredzone.commons</groupId>
     <artifactId>commons-nut</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <name>Shredzone Commons: NUT</name>
     <description>Shredzone Commons: NUT client</description>
     <url>http://commons.shredzone.org</url>
@@ -18,7 +18,7 @@
         <url>https://github.com/shred/commons-nut/</url>
         <connection>scm:git:git@github.com:shred/commons-nut.git</connection>
         <developerConnection>scm:git:git@github.com:shred/commons-nut.git</developerConnection>
-      <tag>v0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
     <issueManagement>
         <system>GitHub Issues</system>
